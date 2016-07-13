@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=template.username
+Exec=template.username
+Icon=icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
