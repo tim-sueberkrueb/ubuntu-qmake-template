@@ -23,7 +23,8 @@ CONF_FILES +=  click/template.username.apparmor \
 OTHER_FILES += $${CONF_FILES} \
                $${QML_FILES} \
                $${AP_TEST_FILES} \
-               click/template.username.desktop
+               click/template.username.desktop \
+               click/manifest.json
 
 # specify where the config files are installed to
 config_files.path = /

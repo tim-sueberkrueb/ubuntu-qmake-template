@@ -4,7 +4,7 @@
     "architecture": "@CLICK_ARCH@",
     "title": "template",
     "hooks": {
-        "template.username": {
+        "template": {
             "apparmor": "template.username.apparmor",
             "desktop": "template.username.desktop"
         }
