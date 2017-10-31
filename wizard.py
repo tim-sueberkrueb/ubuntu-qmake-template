@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 
 # Determine Python binding for Qt to use
